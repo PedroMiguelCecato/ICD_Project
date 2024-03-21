@@ -2,5 +2,7 @@
  Projeto desenvolvido na cadeira de Introdução á Ciência de Dados, durante a graduação no curso de Ciência de Dados e Inteligência Artificial.
 
 Autores:
+<br>
 <a href="https://github.com/PedroMiguelCecato/ICD_Project/">Pedro Miguel Cecato Valões</a>
-Gustavo Afonso da Silva 
+<br>
+Gustavo Afonso da Silva
