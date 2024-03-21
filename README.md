@@ -1,2 +1,6 @@
 # ICD_Project
- Projeto da cadeira de Introdução á Ciência de Dados
+ Projeto desenvolvido na cadeira de Introdução á Ciência de Dados, durante a graduação no curso de Ciência de Dados e Inteligência Artificial.
+
+Autores:
+Pedro Miguel Cecato Valões - https://github.com/PedroMiguelCecato/
+Gustavo Afonso da Silva - 
