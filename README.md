@@ -21,4 +21,4 @@
 
 ### 📁 Dataset utilizado:
 <br>
-<a href="www.kaggle.com/code/praveensaik/video-game-sales-analysis-eda/notebook">Video Games Sales</a>
+<a href="https://www.kaggle.com/code/praveensaik/video-game-sales-analysis-eda/notebook">Video Game Sales</a>
