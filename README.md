@@ -1,6 +1,5 @@
-#Games Data
-###Projeto desenvolvido na cadeira de Introdução á Ciência de Dados, durante a graduação no curso de Ciência de Dados e Inteligência Artificial.
-###UFPB - 2023.2.
+# Games Data
+### Projeto desenvolvido na cadeira de Introdução á Ciência de Dados, durante a graduação no curso de Ciência de Dados e Inteligência Artificial.<br>UFPB - 2023.2.
 
 Autores:
 <br>
