@@ -2,6 +2,7 @@
 ### Projeto desenvolvido na cadeira de Introdução á Ciência de Dados, durante a graduação no curso de Ciência de Dados e Inteligência Artificial.<br>UFPB - 2023.2
 <br>
 <br>
+
 ### Autores:
 <br>
 <a href="https://github.com/PedroMiguelCecato">Pedro Miguel Cecato Valões</a>
