@@ -3,7 +3,7 @@
 <br>
 <br>
 
-### Autores:
+### 🧠 Autores:
 <br>
 <a href="https://github.com/PedroMiguelCecato">Pedro Miguel Cecato Valões</a>
 <br>
@@ -13,3 +13,12 @@
 <a href="https://github.com/Gusttavoafonso">Gustavo Afonso da Silva</a>
 <br>
 20230014130
+<br>
+<br>
+
+### 🤔 Perguntas:
+<br>
+- 
+- 
+- 
+- 
