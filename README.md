@@ -3,6 +3,6 @@
 
 Autores:
 <br>
-<a href="https://github.com/PedroMiguelCecato/ICD_Project/">Pedro Miguel Cecato Valões</a>
+<a href="https://github.com/PedroMiguelCecato">Pedro Miguel Cecato Valões</a>
 <br>
-Gustavo Afonso da Silva
+<a href="https://github.com/Gusttavoafonso">Gustavo Afonso da Silva</a>
