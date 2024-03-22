@@ -13,12 +13,13 @@
 <a href="https://github.com/Gusttavoafonso">Gustavo Afonso da Silva</a>
 <br>
 20230014130
-<br>
-<br>
+<br><br>
 
 ### 🤔 Perguntas:
 <br>
-- 
-- 
-- 
-- 
+
+<br><br>
+
+### 📁 Dataset utilizado:
+<br>
+<a href="www.kaggle.com/code/praveensaik/video-game-sales-analysis-eda/notebook">Video Games Sales</a>
