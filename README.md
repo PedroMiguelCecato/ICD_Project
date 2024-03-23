@@ -14,7 +14,7 @@
 20230014130
 <br><br><br>
 
-### 🤔 Ao final desse projeto, poderemos responder:
+### ✍️ Ao final desse projeto, poderemos responder:
 <br>
 - Qual empresa lançou/vendeu mais jogos?
 <br>
@@ -34,3 +34,10 @@ Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o obj
 ### 📁 Dataset utilizado:
 <br>
 <a href="https://www.kaggle.com/code/praveensaik/video-game-sales-analysis-eda/notebook">Video Game Sales</a>
+<br><br><br>
+
+### 🎮 Evolução dos jogos:
+<br>
+Hoje, os videogames representam uma indústria global de US$100 bilhões, tal popularidade se justifica, principalmente, porque os videogames existem há décadas e abrangem uma gama de plataformas. De sistemas de arcade aos consoles domésticos, portáteis e dispositivos móveis. À medida que novas tecnologias passam a ser incorporadas em outros equipamentos, o mesmo movimento acontece com a evolução dos jogos eletrônicos, que trazem aos usuários novas possibilidades e recursos.
+<br><br>
+Embora os videogames sejam encontrados hoje em lares por todo o mundo, eles realmente nasceram nos laboratórios de pesquisa de cientistas. Em 1940, na New York World Fair, mais de 50 mil pessoas jogaram um game de matemática contra o computador que ganhou quase 90% das vezes.
