@@ -14,9 +14,21 @@
 20230014130
 <br><br><br>
 
-### 🤔 Perguntas:
+### 🤔 Ao final desse projeto, poderemos responder:
 <br>
-
+- Qual empresa lançou/vendeu mais jogos?
+<br>
+- Quais os jogos de uma determinada companhia foram mais vendidos?
+<br>
+- Em qual região uma determinada corporação vendeu mais?
+<br>
+- Qual a opinião dos usuários/analistas sobre os jogos de uma deternminada empresa?
+<br>
+- Qual jogo foi avaliado de forma mais positiva?
+<br>
+- Como foi a avaliação dos jogos de uma determinada empresa ao longo dos anos?
+<br><br>
+Faremos uma análisde minuciosa de todos esses fatores, dentre outros para chegar a um nível de informação relevante.
 <br><br><br>
 
 ### 📁 Dataset utilizado:
