@@ -3,16 +3,17 @@
 <br><br><br>
 
 ### 🧠 Autores:
-<br>
-<a href="https://github.com/PedroMiguelCecato">Pedro Miguel Cecato Valões</a>
-<br>
-20230021831
+<p>
+  <a href="https://github.com/PedroMiguelCecato">Pedro Miguel Cecato Valões</a>
+  <br>
+  20230021831
+</p>
+<p>
+  <a href="https://github.com/Gusttavoafonso">Gustavo Afonso da Silva</a>
+  <br>
+  20230014130
+</p>
 <br><br>
-
-<a href="https://github.com/Gusttavoafonso">Gustavo Afonso da Silva</a>
-<br>
-20230014130
-<br><br><br>
 
 ### ✍️ Ao final desse projeto, poderemos responder:
 <p>
@@ -27,9 +28,10 @@
   &emsp;&emsp;- Qual jogo foi avaliado de forma mais positiva?
   <br>
   &emsp;&emsp;- Como foi a avaliação dos jogos de uma determinada empresa ao longo dos anos?
+  <br>
+  Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o objetivo de coletar informações suficientes sobre a venda de jogos de console de modo que o leitor possa tirar suas próprias conclusões.
 </p>
-Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o objetivo de coletar informações suficientes sobre a venda de jogos de console de modo que o leitor possa tirar suas próprias conclusões.
-<br><br><br>
+<br><br>
 
 ### 📁 Dataset utilizado:
 <p>
@@ -51,7 +53,7 @@ Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o obj
 </p>
 <p>
   As maiores evoluções dos jogos eletrônicos estão ligadas principalmente com o desenvolvimento tecnológico dos computadores. A microeletrônica proporcionou um aumento muito grande no poder computacional ao longo das últimas décadas:
-  <br>
+  <br><br>
   &emsp;&emsp;- 1ª Geração (1972 a 1978): o lançamento do primeiro videogame doméstico comercial, o Magnavox Odyssey, seguido de outros games, como Pong, marcou a primeira geração de consoles de mesa;
   <br>
   &emsp;&emsp;- 2ª Geração (1978 a 1984): é marcada pelo início da era dos cartuchos de videogame, permitindo o fortalecimento das empresas deste mercado. O período dos arcades era visto como a era de ouro dos videogames. Os consoles de segunda geração foram definidos pelo microprocessador;
