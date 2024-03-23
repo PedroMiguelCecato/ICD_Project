@@ -46,7 +46,7 @@ Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o obj
 <br><br>
 As maiores evoluções dos jogos eletrônicos estão ligadas principalmente com o desenvolvimento tecnológico dos computadores. A microeletrônica proporcionou um aumento muito grande no poder computacional ao longo das últimas décadas:
 <br>
-- <p> 1ª Geração (1972 a 1978): o lançamento do primeiro videogame doméstico comercial, o Magnavox Odyssey, seguido de outros games, como Pong, marcou a primeira geração de consoles de mesa;
+- <t> 1ª Geração (1972 a 1978): o lançamento do primeiro videogame doméstico comercial, o Magnavox Odyssey, seguido de outros games, como Pong, marcou a primeira geração de consoles de mesa;
 <br>
 -  2ª Geração (1978 a 1984): é marcada pelo início da era dos cartuchos de videogame, permitindo o fortalecimento das empresas deste mercado. O período dos arcades era visto como a era de ouro dos videogames. Os consoles de segunda geração foram definidos pelo microprocessador;
 <br>
