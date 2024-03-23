@@ -28,7 +28,7 @@
   &emsp;&emsp;- Qual jogo foi avaliado de forma mais positiva?
   <br>
   &emsp;&emsp;- Como foi a avaliação dos jogos de uma determinada empresa ao longo dos anos?
-  <br>
+  <br><br>
   Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o objetivo de coletar informações suficientes sobre a venda de jogos de console de modo que o leitor possa tirar suas próprias conclusões.
 </p>
 <br><br>
