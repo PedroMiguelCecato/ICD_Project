@@ -51,25 +51,25 @@ Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o obj
 </p>
 <p>
   As maiores evoluções dos jogos eletrônicos estão ligadas principalmente com o desenvolvimento tecnológico dos computadores. A microeletrônica proporcionou um aumento muito grande no poder computacional ao longo das últimas décadas:
+  <br>
+  &emsp;&emsp;- 1ª Geração (1972 a 1978): o lançamento do primeiro videogame doméstico comercial, o Magnavox Odyssey, seguido de outros games, como Pong, marcou a primeira geração de consoles de mesa;
+  <br>
+  &emsp;&emsp;- 2ª Geração (1978 a 1984): é marcada pelo início da era dos cartuchos de videogame, permitindo o fortalecimento das empresas deste mercado. O período dos arcades era visto como a era de ouro dos videogames. Os consoles de segunda geração foram definidos pelo microprocessador;
+  <br>
+  &emsp;&emsp;- 3ª Geração (1984 a 1990):  depois do crash dos videogames de 1983, companhias japonesas apresentaram os videogames de 8 bits, buscando retomar um mercado destruído e dominado pelos arcades. Nesta geração, empresas como Nintendo e Sega buscam reafirmação;
+  <br>
+  &emsp;&emsp;- 4ª Geração (1990 a 1996):  também conhecida como a guerra dos consoles, essa geração foi marcada pelo advento dos consoles de 16 bits e pela disputa das empresas, que conduziam a estratégia com franquias e ações de marketing agressivas;
+  <br>
+  &emsp;&emsp;- 5ª Geração (1996 a 1999): termina a era dos consoles de 32 e 64 bits, encerrando o ciclo da evolução dos jogos eletrônicos orientada por arquitetura de processador. Essa geração é marcada pela manutenção de franquias e entrada de novos fabricantes, como a Sony e a mídia de CD;
+  <br>
+  &emsp;&emsp;- 6ª Geração (1999 a 2004): os cartuchos saem de cena e o DVD passa ser o novo padrão dos consoles de mesa, voltando o foco para os jogos online e as convergências tecnológicas. Os consoles passam a oferecer um processamento com performance comparável aos computadores pessoais;
+  <br>
+  &emsp;&emsp;- 7ª Geração (2004 a 2011): na tentativa de se destacar e oferecer uma experiência única para os usuários, os consoles de mesa se tornam máquinas de performance de 128-bits e total conectividade com serviços de internet. Novas formas de interação com os usuários são pensadas para engajar os usuários;
+  <br>
+  &emsp;&emsp;- 8ª Geração (2012 até 2020): capacidade de armazenamento (blu-ray), conectividade total, exclusividade, experiências com novas formas de interação e potência em processamento;
+  <br>
+  &emsp;&emsp;- 9ª Geração (2020 até hoje): atualmente, essa geração oferece tudo o que um usuário espera de um console de mesa, imagens mais realistas, menor tempo de carregamento dos jogos. Em termos de estrutura, a arquitetura dos consoles da nona geração se parece com a dos computadores dedicados a jogos.
 </p>
-&emsp;&emsp;- 1ª Geração (1972 a 1978): o lançamento do primeiro videogame doméstico comercial, o Magnavox Odyssey, seguido de outros games, como Pong, marcou a primeira geração de consoles de mesa;
-<br>
-&emsp;&emsp;- 2ª Geração (1978 a 1984): é marcada pelo início da era dos cartuchos de videogame, permitindo o fortalecimento das empresas deste mercado. O período dos arcades era visto como a era de ouro dos videogames. Os consoles de segunda geração foram definidos pelo microprocessador;
-<br>
-&emsp;&emsp;- 3ª Geração (1984 a 1990):  depois do crash dos videogames de 1983, companhias japonesas apresentaram os videogames de 8 bits, buscando retomar um mercado destruído e dominado pelos arcades. Nesta geração, empresas como Nintendo e Sega buscam reafirmação;
-<br>
-&emsp;&emsp;- 4ª Geração (1990 a 1996):  também conhecida como a guerra dos consoles, essa geração foi marcada pelo advento dos consoles de 16 bits e pela disputa das empresas, que conduziam a estratégia com franquias e ações de marketing agressivas;
-<br>
-&emsp;&emsp;- 5ª Geração (1996 a 1999): termina a era dos consoles de 32 e 64 bits, encerrando o ciclo da evolução dos jogos eletrônicos orientada por arquitetura de processador. Essa geração é marcada pela manutenção de franquias e entrada de novos fabricantes, como a Sony e a mídia de CD;
-<br>
-&emsp;&emsp;- 6ª Geração (1999 a 2004): os cartuchos saem de cena e o DVD passa ser o novo padrão dos consoles de mesa, voltando o foco para os jogos online e as convergências tecnológicas. Os consoles passam a oferecer um processamento com performance comparável aos computadores pessoais;
-<br>
-&emsp;&emsp;- 7ª Geração (2004 a 2011): na tentativa de se destacar e oferecer uma experiência única para os usuários, os consoles de mesa se tornam máquinas de performance de 128-bits e total conectividade com serviços de internet. Novas formas de interação com os usuários são pensadas para engajar os usuários;
-<br>
-&emsp;&emsp;- 8ª Geração (2012 até 2020): capacidade de armazenamento (blu-ray), conectividade total, exclusividade, experiências com novas formas de interação e potência em processamento;
-<br>
-&emsp;&emsp;- 9ª Geração (2020 até hoje): atualmente, essa geração oferece tudo o que um usuário espera de um console de mesa, imagens mais realistas, menor tempo de carregamento dos jogos. Em termos de estrutura, a arquitetura dos consoles da nona geração se parece com a dos computadores dedicados a jogos.
-<br>
 <p>
   &emsp;&emsp;Como vimos até aqui, a evolução dos jogos eletrônicos tem sido orientada pelo avanço da tecnologia e pelo surgimento de novas ferramentas. Com a implantação de soluções inovadoras, certamente os consoles irão proporcionar experiências ainda mais divertidas e surpreendentes para os usuários.
 </p>
