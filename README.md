@@ -23,7 +23,7 @@
   <br>
   &emsp;&emsp;- Em qual região houve mais vendas de uma determinado jogo?
   <br>
-  &emsp;&emsp;- Qual a opinião dos usuários/analistas sobre os jogos de uma deternminada empresa?
+  &emsp;&emsp;- Qual a opinião dos usuários/analistas sobre os jogos de uma determinada empresa?
   <br>
   &emsp;&emsp;- Qual jogo foi avaliado de forma mais positiva?
   <br>
