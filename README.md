@@ -17,17 +17,17 @@
 
 ### ✍️ Ao final desse projeto, poderemos responder:
 <p>
-  &emsp;&emsp;- Qual empresa lançou/vendeu mais jogos?
+  &emsp;&emsp;- Qual das empresas em análise lançou/vendeu mais jogos?
   <br>
   &emsp;&emsp;- Quais os jogos de uma determinada companhia foram mais vendidos?
   <br>
-  &emsp;&emsp;- Em qual região uma determinada corporação vendeu mais?
+  &emsp;&emsp;- Em qual região houve mais vendas de uma determinado jogo?
   <br>
   &emsp;&emsp;- Qual a opinião dos usuários/analistas sobre os jogos de uma deternminada empresa?
   <br>
   &emsp;&emsp;- Qual jogo foi avaliado de forma mais positiva?
   <br>
-  &emsp;&emsp;- Como foi a avaliação dos jogos de uma determinada empresa ao longo dos anos?
+  &emsp;&emsp;- Como foi a avaliação dos jogos lançados por uma empresa ao longo dos anos?
   <br><br>
   Faremos uma análisde minuciosa de todos esses fatores, dentre outros, com o objetivo de coletar informações suficientes sobre a venda de jogos de console de modo que o leitor possa tirar suas próprias conclusões.
 </p>
