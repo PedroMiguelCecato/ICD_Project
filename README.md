@@ -35,7 +35,7 @@
 
 ### 📁 Dataset utilizado:
 <p>
-  <a href="https://www.kaggle.com/code/praveensaik/video-game-sales-analysis-eda/notebook">Video Game Sales</a>
+  <a href="https://www.kaggle.com/datasets/rishidamarla/video-game-sales/data">Video Game Sales</a>
   <br>
   OBS: Os dados de venda por região estão na casa dos MILHÕES!
 </p>
