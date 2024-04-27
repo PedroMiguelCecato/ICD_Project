@@ -21,7 +21,7 @@
   <br>
   &emsp;&emsp;- Quais os jogos de uma determinada companhia foram mais vendidos?
   <br>
-  &emsp;&emsp;- Em qual região houve mais vendas de uma determinado jogo?
+  &emsp;&emsp;- Em qual região houve mais vendas de um determinado genero de jogo?
   <br>
   &emsp;&emsp;- Qual a opinião dos usuários/analistas sobre os jogos de uma determinada empresa?
   <br>
