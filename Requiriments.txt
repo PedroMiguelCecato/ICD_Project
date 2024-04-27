@@ -1,6 +1,0 @@
-Versão das bibliotecas usadas:
-
-    pandas - 2.2.1
-    nunpy - 1.26.0
-    matplotlib - 3.8.3
-    seaborn - 0.13.2
